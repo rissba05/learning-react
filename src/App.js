@@ -16,7 +16,7 @@ const App = () => {
       <Greeting 
         name='Curly'
         favoriteNumber={42}
-        favoriteColors={["Red", "Green", "Blue"]}
+        favoriteColors={["Red", "Green", "Blue", "Red"]}
       />
       <Greeting 
         name='Moe'
